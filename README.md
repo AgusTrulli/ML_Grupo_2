@@ -16,9 +16,13 @@ Project Organization
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
     │
+    ├── environment.yml    <- To recreate the environment with conda. 
+    |
+    ├── tp1_EDA.ipynb      <- Exploratory data analysis.
+    |
     └── src                <- Source code for use in this project.
         │
-        └── data           <- Scripts to download or generate data
+        └── data           <- Scripts to download or generate data.
             ├── raw_data_access.py
             └── utils.py
 
