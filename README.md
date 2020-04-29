@@ -11,8 +11,6 @@ Project Organization
     ├── data
     │   └── raw                         <- The original, immutable data dump.
     │
-    ├── references                      <- Data dictionaries, manuals, and all other explanatory materials.
-    │
     ├── requirements.txt                <- The requirements file for reproducing the analysis environment, e.g.
     │                                      generated with `pip freeze > requirements.txt`
     │
