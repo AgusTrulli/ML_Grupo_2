@@ -27,6 +27,6 @@ Project Organization
         │   └── utils.py
         │ 
         └── visualization                <- Scripts to standardize plots.
-            └── utils.py
+            └── visualize.py
 
 ------------
