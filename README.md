@@ -18,6 +18,8 @@ Project Organization
     |
     ├── tp1_EDA.ipynb                   <- Exploratory data analysis.
     |
+    ├── tp2_experimentation.ipynb       <- Experiments with machine learning models.                   
+    |
     └── src                             <- Source code for use in this project.
         │
         ├── data                        <- Scripts to download or generate data.
