@@ -13,8 +13,10 @@ def data_path(*joins):
 
 FEATURES = data_path('raw', 'list_attr_celeba.csv')
 PARTITIONS = data_path('raw', 'list_eval_partition.csv')
+IMAGES = data_path('imagenes_tp3_cv')
 
 datasets_paths = {
     'features_csv': FEATURES,
-    'partitions_csv': PARTITIONS
+    'partitions_csv': PARTITIONS,
+    'images': IMAGES
 }
